@@ -1,0 +1,4 @@
+rootProject.name = 'stream-rest-parent'
+include 'stream-models'
+include 'stream-rest-server'
+include 'stream-rest-client'

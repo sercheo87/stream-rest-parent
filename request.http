@@ -1,0 +1,7 @@
+### Get stream
+
+GET http://localhost:3000/stream
+
+### Get reader stream
+
+GET http://localhost:3001/reader
